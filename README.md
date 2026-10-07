@@ -1,383 +1,707 @@
 <div align="center">
 
-<!-- HEADER ANIMATION -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:7C3AED,100:A855F7&height=230&section=header&text=RAJA%20RAMAN%20G&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20ENGINEER%20%7C%20CYBER%20SECURITY%20%7C%20IT%20UNDERGRAD&descAlignY=60&descSize=18"/>
+<!--                            HERO SECTION                            -->
 
-<!-- TYPING ANIMATION -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=A78BFA&center=true&vCenter=true&width=750&lines=Aspiring+AI+Engineer+%F0%9F%A4%96;Cyber+Security+Enthusiast+%F0%9F%94%90;Machine+Learning+%26+Deep+Learning+%F0%9F%A7%A0;Ethical+Hacking+%26+Network+Security+%F0%9F%9B%A1%EF%B8%8F;Building+Real-World+Projects+%F0%9F%9A%80;Learn+%E2%86%92+Build+%E2%86%92+Share+%E2%86%92+Improve+%E2%9C%A8" alt="Typing Animation"/>
-
-<br/>
-
-<!-- BADGES -->
-
-<img src="https://img.shields.io/badge/B.Tech-Information%20Technology-6D28D9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Focus-AI%20%26%20Cyber%20Security-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Location-India-4C1D95?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-A855F7?style=for-the-badge"/>
-
-<br/><br/>
-
-<!-- SOCIAL LINKS -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <a href="https://github.com/raja-raman3">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:090014,35:1A0633,65:4C1D95,100:7C3AED&text=RAJA%20RAMAN%20G&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=AI%20ENGINEER%20%20%E2%80%A2%20%20CYBER%20SECURITY%20%20%E2%80%A2%20%20TECH%20BUILDER&descSize=18&descAlignY=60&animation=fadeIn"/>
+
+</a>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=700&color=A78BFA&center=true&vCenter=true&width=850&height=55&lines=AI+%E2%80%A2+Machine+Learning+%E2%80%A2+Cyber+Security;Building+Intelligent+%26+Secure+Systems;Ethical+Hacking+%E2%80%A2+Network+Security+%E2%80%A2+AI+Security;Turning+Ideas+Into+Real-World+Technology;Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Secure+%E2%86%92+Improve" alt="Typing Animation"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/AI%20ENGINEERING-7C3AED?style=for-the-badge&logo=probot&logoColor=white"/>
+<img src="https://img.shields.io/badge/CYBER%20SECURITY-4C1D95?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+<img src="https://img.shields.io/badge/MACHINE%20LEARNING-A855F7?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/IT%20UNDERGRAD-6D28D9?style=for-the-badge&logo=academia&logoColor=white"/>
+
+<br><br>
+
+<a href="https://github.com/raja-raman3">
+<img src="https://img.shields.io/badge/GitHub-RAJA--RAMAN3-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/raja-raman-g-a2723a352">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-RAJA%20RAMAN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:rajaramansekaran2006@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-CONTACT%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br/><br/>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=raja-raman3&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=raja-raman3&style=for-the-badge&color=7C3AED&label=PROFILE+VISITORS"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<!--                         ABOUT ME SECTION                           -->
 
-```yaml
-Name: RAJA RAMAN G
-Degree: B.Tech Information Technology
-Role: Aspiring AI Engineer & Cyber Security Analyst
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-Primary Focus:
-  - Artificial Intelligence
-  - Machine Learning
-  - Deep Learning
-  - Cyber Security
-  - Ethical Hacking
-  - Network Security
+<div align="center">
 
-Currently Learning:
-  - AI Engineering
-  - ML / DL
-  - Cyber Security
-  - Ethical Hacking
-  - Network Security
-  - Secure Software Development
+# ⚡ WHO AM I?
 
-Mindset:
-  Learn → Build → Share → Improve
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=C4B5FD&center=true&vCenter=true&width=700&lines=Not+just+a+student.;Not+just+a+developer.;A+builder+with+a+security+mindset.;An+AI+enthusiast+with+a+mission.;Building+the+future%2C+one+system+at+a+time." alt="About Animation"/>
 
-🎯 I am an **Information Technology undergraduate** passionate about Artificial Intelligence and Cyber Security.
+</div>
 
-🤖 My goal is to become an **AI Engineer and Cyber Security Analyst** capable of building intelligent and secure applications.
+<br>
 
-🔐 I am particularly interested in **Ethical Hacking, Network Security, AI Security, Machine Learning, and Deep Learning**.
+<table align="center">
+<tr>
+<td width="55%" valign="top">
 
-🚀 I believe in learning through practical projects and continuously improving my technical skills.
-
-<br clear="right"/>
-
----
-
-# 🧠 Tech Stack
-
-## 💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
-</p>
-
-## 🌐 Frontend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
-</p>
-
-## ⚙️ Backend & Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=flask,nodejs,mysql,mongodb,firebase" />
-</p>
-
-## 🛠️ Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,linux" />
-</p>
-
----
-
-# 🛡️ Cyber Security Interests
+## 👨‍💻 RAJA RAMAN G
 
 ```text
-                    CYBER SECURITY
-                          │
-        ┌─────────────────┼─────────────────┐
-        │                 │                 │
-   Ethical Hacking   Network Security   AI Security
-        │                 │                 │
-   Vulnerability      Network          Threat Detection
-   Assessment         Analysis         AI/ML Security
-        │                 │                 │
-        └─────────────────┼─────────────────┘
-                          │
-                   Secure Systems
+┌───────────────────────────────────────┐
+│                                       │
+│   🎓 B.Tech Information Technology    │
+│                                       │
+│   🤖 Aspiring AI Engineer             │
+│                                       │
+│   🔐 Cyber Security Enthusiast        │
+│                                       │
+│   🧠 ML / DL Explorer                 │
+│                                       │
+│   ⚡ Technology Builder                │
+│                                       │
+└───────────────────────────────────────┘
 ```
 
-### 🔐 Areas I'm Exploring
+I am an **Information Technology undergraduate** who enjoys working at the intersection of **Artificial Intelligence and Cyber Security**.
 
-* Ethical Hacking
-* Network Security
-* Cyber Security
-* Vulnerability Assessment
-* Secure Software Development
-* AI Security
-* Threat Detection
-* Network Analysis
+I don't want to simply learn technologies — I want to **understand them, build with them, break them, secure them, and turn them into useful real-world solutions.**
+
+My long-term direction is to become an **AI Engineer & Cyber Security Professional**, creating systems that are both **intelligent and secure**.
+
+</td>
+
+<td width="45%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1800&pause=600&color=A78BFA&center=true&vCenter=true&width=400&lines=Think+%F0%9F%A7%A0;Build+%F0%9F%9A%80;Break+%F0%9F%94%A5;Secure+%F0%9F%94%90;Improve+%E2%9C%A8" alt="Mindset Animation"/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+### `01` THINK   →   `02` BUILD   →   `03` TEST   →   `04` SECURE   →   `05` IMPROVE
+
+</div>
 
 ---
 
-# 🤖 AI & Machine Learning Journey
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<!--                         TECH ARSENAL                               -->
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+# 🧬 MY TECH ARSENAL
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2200&pause=700&color=A78BFA&center=true&vCenter=true&width=650&lines=Languages+I+speak.;Frameworks+I+build+with.;Tools+I+create+with.;Technologies+I+am+mastering." alt="Tech Animation"/>
+
+</div>
+
+<br>
+
+### 💻 LANGUAGES
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,dart&perline=6"/>
+
+</div>
+
+<br>
+
+### ⚛️ DEVELOPMENT
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,bootstrap,flask,nodejs,flutter&perline=5"/>
+
+</div>
+
+<br>
+
+### 🗄️ DATABASE & CLOUD
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&perline=3"/>
+
+</div>
+
+<br>
+
+### 🛠️ TOOLS & ENVIRONMENT
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&perline=4"/>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<!--                       AI SECTION                                   -->
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+# 🤖 AI × INTELLIGENCE
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2000&pause=700&color=A78BFA&center=true&vCenter=true&width=800&lines=DATA+%E2%86%92+MODEL+%E2%86%92+INTELLIGENCE+%E2%86%92+DECISION;Learning+how+machines+learn.;Building+systems+that+think.;Exploring+AI+Engineering." alt="AI Animation"/>
+
+</div>
+
+<br>
+
+<table align="center">
+<tr>
+
+<td align="center" width="25%">
+
+<img src="https://skillicons.dev/icons?i=python" width="65"/>
+
+### PYTHON
+
+Programming
+Automation
+Data
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="65"/>
+
+### ML
+
+Machine
+Learning
+Models
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="65"/>
+
+### DL
+
+Deep
+Learning
+Neural Nets
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://cdn.simpleicons.org/openai/FFFFFF" width="65"/>
+
+### AI
+
+Intelligence
+Engineering
+Innovation
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
 
 ```text
-Python
-  ↓
-Data Structures & Algorithms
-  ↓
+                 ┌──────────────────┐
+                 │       DATA       │
+                 └────────┬─────────┘
+                          ↓
+                 ┌──────────────────┐
+                 │   PROCESSING     │
+                 └────────┬─────────┘
+                          ↓
+                 ┌──────────────────┐
+                 │ MACHINE LEARNING │
+                 └────────┬─────────┘
+                          ↓
+                 ┌──────────────────┐
+                 │ DEEP LEARNING    │
+                 └────────┬─────────┘
+                          ↓
+                 ┌──────────────────┐
+                 │  AI ENGINEERING  │
+                 └────────┬─────────┘
+                          ↓
+                 ┌──────────────────┐
+                 │   AI SECURITY    │
+                 └──────────────────┘
+```
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<!--                    CYBER SECURITY SECTION                          -->
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+# 🔐 CYBER SECURITY LAB
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=1800&pause=600&color=A78BFA&center=true&vCenter=true&width=800&lines=DEFEND+%E2%80%A2+ANALYZE+%E2%80%A2+TEST+%E2%80%A2+SECURE;Ethical+Hacking;Network+Security;Vulnerability+Assessment;AI+Security;Threat+Detection" alt="Cyber Security Animation"/>
+
+</div>
+
+<br>
+
+<table align="center">
+<tr>
+
+<td width="33%" align="center">
+
+<img src="https://cdn.simpleicons.org/kalilinux/557C94" width="75"/>
+
+### ⚔️ ETHICAL HACKING
+
+Penetration Testing
+Security Testing
+Vulnerability Analysis
+
+</td>
+
+<td width="33%" align="center">
+
+<img src="https://cdn.simpleicons.org/wireshark/1679A7" width="75"/>
+
+### 🌐 NETWORK SECURITY
+
+Network Analysis
+Traffic Monitoring
+Secure Communication
+
+</td>
+
+<td width="33%" align="center">
+
+<img src="https://cdn.simpleicons.org/owasp/000000" width="75"/>
+
+### 🛡️ APPLICATION SECURITY
+
+Secure Development
+Threat Detection
+Vulnerability Assessment
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" align="center">
+
+<img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="75"/>
+
+### 🤖 AI SECURITY
+
+AI Threat Detection
+ML Security
+Intelligent Defense
+
+</td>
+
+<td width="33%" align="center">
+
+<img src="https://cdn.simpleicons.org/linux/FCC624" width="75"/>
+
+### 🖥️ SYSTEM SECURITY
+
+Linux
+System Analysis
+Secure Infrastructure
+
+</td>
+
+<td width="33%" align="center">
+
+<img src="https://cdn.simpleicons.org/github/181717" width="75"/>
+
+### 🔎 SECURITY RESEARCH
+
+Security Research
+Experimentation
+Continuous Learning
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<!--                         PROJECTS                                   -->
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+# 🚀 PROJECTS THAT I BUILD
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=700&color=A78BFA&center=true&vCenter=true&width=700&lines=Ideas+become+projects.;Projects+become+experience.;Experience+becomes+expertise." alt="Projects Animation"/>
+
+</div>
+
+<br>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🏥 MEDIGUARD
+
+### Smart Patient Monitoring Platform
+
+A digital healthcare platform focused on **smart patient monitoring and health management**.
+
+<br>
+
+**STACK**
+
+<img src="https://skillicons.dev/icons?i=python,react,flask,mysql&perline=4"/>
+
+<br><br>
+
+`Healthcare` `AI` `Web` `Monitoring`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🎓 TRIBALONE
+
+### Unified Scholarship Platform
+
+A unified platform designed to simplify **scholarship and fellowship discovery for tribal students**.
+
+<br>
+
+**STACK**
+
+<img src="https://skillicons.dev/icons?i=html,css,js&perline=3"/>
+
+<br><br>
+
+`Education` `Scholarship` `Web` `Social Impact`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 👨‍💼 SMART EMPLOYEE
+
+### Employee Management System
+
+A smart HR platform designed to manage **employees and organizational workflows**.
+
+<br>
+
+**STACK**
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase&perline=3"/>
+
+<br><br>
+
+`HR` `Management` `Mobile` `Firebase`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🧪 NEXT PROJECT
+
+### AI × Cyber Security
+
+Building toward projects that combine **Artificial Intelligence with Cyber Security**.
+
+<br>
+
+**FOCUS**
+
+<img src="https://skillicons.dev/icons?i=python,linux&perline=2"/>
+
+<br><br>
+
+`AI Security` `Threat Detection` `Automation`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<!--                       MY SPECIALIZATION                            -->
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+# 🧠 MY SPECIALIZATION
+
+<br>
+
+<table>
+<tr>
+
+<td align="center">
+
+### 🤖
+
+**ARTIFICIAL**
+**INTELLIGENCE**
+
 Machine Learning
-  ↓
 Deep Learning
-  ↓
-Artificial Intelligence
-  ↓
 AI Engineering
-  ↓
+
+</td>
+
+<td align="center">
+
+### 🔐
+
+**CYBER**
+**SECURITY**
+
+Ethical Hacking
+Network Security
+Security Research
+
+</td>
+
+<td align="center">
+
+### ⚡
+
+**AI × SECURITY**
+
 AI Security
-  ↓
-Intelligent & Secure Applications
-```
+Threat Detection
+Secure AI Systems
 
-### Currently Exploring
+</td>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=700&color=A78BFA&width=700&lines=Machine+Learning;Deep+Learning;Artificial+Intelligence;AI+Engineering;AI+Security;Cyber+Security;Ethical+Hacking;Network+Security" alt="Learning Animation"/>
+</tr>
+</table>
 
----
+<br>
 
-# 🚀 Featured Projects
-
-## 🏥 01 — MediGuard
-
-### Smart Patient Monitoring & Digital Health Platform
-
-MediGuard is a smart healthcare platform focused on **patient monitoring and digital health management**.
-
-### Tech Stack
-
-```text
-Python
-React
-Flask
-MySQL
-```
-
-🔹 Smart healthcare solution
-🔹 Patient monitoring
-🔹 Digital health management
-🔹 Web-based architecture
-
----
-
-## 🎓 02 — TRIBALONE
-
-### Unified Scholarship & Fellowship Platform
-
-TRIBALONE is a platform designed to simplify **scholarship and fellowship discovery and management for tribal students**.
-
-### Tech Stack
-
-```text
-HTML
-CSS
-JavaScript
-```
-
-🔹 Scholarship discovery
-🔹 Fellowship information
-🔹 Student-focused platform
-🔹 Unified scholarship experience
-
-> **One Student. One Profile. One Scholarship View.**
-
----
-
-## 👨‍💼 03 — Smart Employee Management System
-
-### Smart HR & Employee Management Portal
-
-A smart employee management application designed to simplify **HR operations and employee management**.
-
-### Tech Stack
-
-```text
-Flutter
-Dart
-Firebase
-```
-
-🔹 Employee management
-🔹 HR workflow
-🔹 Firebase backend
-🔹 Cross-platform application
-
----
-
-# 📚 My Learning Journey
-
-```text
-🎓 Education
-      ↓
-🐍 Programming
-      ↓
-🌐 Development
-      ↓
-🤖 Artificial Intelligence
-      ↓
-🧠 Machine Learning
-      ↓
-🔥 Deep Learning
-      ↓
-🔐 Cyber Security
-      ↓
-🛡️ Ethical Hacking
-      ↓
-🌐 Network Security
-      ↓
-🚀 Real-World Projects
-      ↓
-💼 Professional Growth
-```
-
----
-
-# 💡 What I Believe
-
-<div align="center">
-
-### "Technology becomes powerful when knowledge becomes action."
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Learn+something+new+every+day.;Build+something+useful.;Solve+real-world+problems.;Keep+improving.;Never+stop+learning." alt="Motivation Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=1700&pause=700&color=A78BFA&center=true&vCenter=true&width=800&lines=INTELLIGENCE+%2B+SECURITY+%3D+THE+FUTURE;Building+systems+that+are+SMART.;Building+systems+that+are+SECURE.;Building+systems+that+are+USEFUL." alt="Specialization Animation"/>
 
 </div>
 
 ---
 
-# 📊 GitHub Activity
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<!--                       CURRENTLY LEARNING                           -->
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=raja-raman3&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+# ⚡ CURRENTLY EXPLORING
 
-<br/><br/>
+<br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=raja-raman3&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://skillicons.dev/icons?i=python,linux,git,github&perline=4"/>
 
-<br/><br/>
+<br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raja-raman3&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=1900&pause=650&color=A78BFA&center=true&vCenter=true&width=850&lines=%5B+AI+ENGINEERING+%5D;%5B+MACHINE+LEARNING+%5D;%5B+DEEP+LEARNING+%5D;%5B+ETHICAL+HACKING+%5D;%5B+NETWORK+SECURITY+%5D;%5B+AI+SECURITY+%5D;%5B+SECURE+SOFTWARE+%5D" alt="Currently Learning"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<!--                       DEVELOPER MINDSET                            -->
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/raja-raman3/raja-raman3/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+# ⚡ DEVELOPER MINDSET
+
+<table>
+<tr>
+
+<td align="center">
+
+### 🧠 THINK
+
+Understand the
+problem first.
+
+</td>
+
+<td align="center">
+
+### 🛠️ BUILD
+
+Turn ideas
+into systems.
+
+</td>
+
+<td align="center">
+
+### 🔥 BREAK
+
+Test limits.
+Find weaknesses.
+
+</td>
+
+<td align="center">
+
+### 🔐 SECURE
+
+Protect what
+you build.
+
+</td>
+
+<td align="center">
+
+### 🚀 IMPROVE
+
+Keep learning.
+Keep evolving.
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2000&pause=700&color=C4B5FD&center=true&vCenter=true&width=750&lines=Curiosity+drives+me.;Projects+teach+me.;Security+challenges+me.;AI+inspires+me.;Building+defines+me." alt="Mindset Animation"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<!--                         GITHUB SECTION                             -->
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=raja-raman3&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies"/>
+# 📡 DIGITAL PRESENCE
 
-</div>
-
----
-
-# 🎯 2026 Goals
-
-```text
-[✓] Strengthen Programming Skills
-[✓] Build Real-World Projects
-[✓] Learn Machine Learning
-[ ] Master Deep Learning
-[ ] Improve Cyber Security Skills
-[ ] Learn Advanced Ethical Hacking
-[ ] Build AI-Powered Security Projects
-[ ] Contribute to Open Source
-[ ] Become an AI Engineer
-[ ] Become a Cyber Security Professional
-```
-
----
-
-# 🌱 Current Focus
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/01-AI%20Engineering-6D28D9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/02-Machine%20Learning-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/03-Deep%20Learning-A855F7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/04-Cyber%20Security-4C1D95?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/05-Network%20Security-6D28D9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/06-AI%20Security-7C3AED?style=for-the-badge"/>
-
-</div>
-
----
-
-# 🤝 Connect With Me
-
-<div align="center">
+<br>
 
 <a href="https://github.com/raja-raman3">
-<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=raja-raman3&show_icons=true&hide_border=true&theme=tokyonight&bg_color=090014&title_color=A78BFA&icon_color=C4B5FD&text_color=FFFFFF"/>
+
+</a>
+
+<br><br>
+
+<a href="https://github.com/raja-raman3">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raja-raman3&layout=compact&hide_border=true&theme=tokyonight&bg_color=090014&title_color=A78BFA&text_color=FFFFFF"/>
+
+</a>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<!--                         CONNECT                                    -->
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+# 🌐 LET'S CONNECT
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2200&pause=700&color=A78BFA&center=true&vCenter=true&width=650&lines=Have+an+idea%3F+Let's+build.;Interested+in+AI%3F+Let's+talk.;Interested+in+Cyber+Security%3F+Let's+connect.;Always+open+to+learning+and+collaborating." alt="Connect Animation"/>
+
+<br><br>
+
+<a href="https://github.com/raja-raman3">
+<img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/raja-raman-g-a2723a352">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:rajaramansekaran2006@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/GMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
+<br><br>
 
----
+### `AI` × `SECURITY` × `INNOVATION`
 
-<div align="center">
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Code+%7C+Learn+%7C+Build+%7C+Secure;AI+%7C+Cyber+Security+%7C+Innovation;One+Project+At+A+Time+%F0%9F%9A%80;Keep+Learning+%E2%9C%A8;Keep+Building+%F0%9F%94%A5;Keep+Growing+%F0%9F%9A%80" alt="Footer Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=1800&pause=700&color=A78BFA&center=true&vCenter=true&width=700&lines=BUILD+THE+FUTURE.;SECURE+THE+FUTURE.;BE+THE+FUTURE." alt="Final Animation"/>
 
-<br/>
+<br><br>
 
-### 🚀 Keep Building. Keep Learning. Keep Growing.
-
-### 🤖 AI × 🔐 Cyber Security × 💻 Innovation
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:7C3AED,100:A855F7&height=140&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,35:1A0633,65:4C1D95,100:7C3AED&height=170&section=footer&animation=fadeIn"/>
 
 </div>
